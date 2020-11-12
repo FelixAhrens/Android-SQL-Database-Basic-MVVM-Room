@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="add_parent" type="id" />
+    <item name="add_child" type="id" />
+    <item name="delete_all" type="id" />
+</resources>
